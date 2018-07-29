@@ -8,3 +8,5 @@
 __pycache__
 *.o
 *.output
+test/performance/build
+test/performance/dist
